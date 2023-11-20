@@ -1,5 +1,6 @@
 /**
- * These tasks are more complicated! Using combinations of arrays and objects is very common, here you will need to combine what you know about both to complete the tasks.
+ * These tasks are more complicated! Using combinations of arrays and objects is very common, 
+ * here you will need to combine what you know about both to complete the tasks.
  */
 
 unitedKingdom = [
@@ -31,7 +32,7 @@ unitedKingdom = [
 /**
  * Q1. Add some tourist attractions to England
  */
-
+england = unitedKingdom.find()
 england = null;
 
 // console.log(england);
